@@ -1,3 +1,4 @@
 other change
 foo
 bar
+baz
